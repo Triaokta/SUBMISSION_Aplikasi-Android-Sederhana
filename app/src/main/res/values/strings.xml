@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">List Komponen Elektronika</string>
+    <string name="component_name">Komponen Elektronika</string>
+    <string name="description">Deskripsi</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="about">About</string>
+    <string name="my_name">Tria Oktaviana</string>
+    <string name="email">3332210054@untirta.ac.id</string>
+
+    <string-array name="data_name">
+        <item>buzzer</item>
+        <item>dioda</item>
+        <item>ic</item>
+        <item>induktor</item>
+        <item>kapasitor</item>
+        <item>led</item>
+        <item>potensiometer</item>
+        <item>relay</item>
+        <item>resistor</item>
+        <item>transformator</item>
+        <item>transistor</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Buzzer adalah komponen elektronik yang digunakan untuk menghasilkan suara atau bunyi\nBiasanya digunakan untuk memberikan peringatan atau sinyal dalam berbagai aplikasi elektronik, seperti alarm, peringatan dalam rangkaian listrik, atau pemberitahuan dalam perangkat elektronik kecil seperti jam alarm.\nAda dua jenis utama buzzer: buzzer piezoelektrik, yang menggunakan efek piezoelektrik untuk menghasilkan suara, dan buzzer elektromagnetik, yang menggunakan elektromagnetisme untuk menghasilkan suara.</item>
+        <item>Dioda adalah komponen semikonduktor yang mengizinkan arus listrik mengalir hanya dalam satu arah (dari terminal anoda ke katoda) sambil menghambat arus dalam arah sebaliknya.\nDioda memiliki berbagai aplikasi dalam elektronika, termasuk sebagai penyearah (mengubah arus AC menjadi DC), pelindung arus balik (melindungi sirkuit dari arus balik yang tidak diinginkan), dan pembuat logika dalam rangkaian elektronika digital.</item>
+        <item>IC adalah kumpulan sirkuit elektronik yang terpadu ke dalam sebuah chip silikon kecil.\nIC mengandung berbagai komponen elektronik, seperti transistor, resistor, kapasitor, dan dioda, yang dihubungkan bersama untuk melakukan fungsi tertentu, seperti penguat sinyal, pengolah data, atau kontrol logika.\nIC sangat umum dalam berbagai perangkat elektronik, mulai dari komputer dan ponsel hingga perangkat rumah tangga dan otomotif.</item>
+        <item>Induktor adalah komponen elektronik yang digunakan untuk menyimpan energi dalam bentuk medan magnet saat arus listrik mengalir melaluinya.\nInduktor sering digunakan dalam rangkaian elektronik sebagai bagian dari filter, pengatur daya, atau untuk menyimpan energi sementara dalam rangkaian osilasi.\nInduktor dapat berupa kumparan kawat yang dililitkan di sekitar inti feromagnetik atau kawat yang dililitkan pada inti udara.</item>
+        <item>KaKapasitor adalah komponen elektronik yang digunakan untuk menyimpan dan melepaskan energi dalam bentuk medan listrik.\nKapasitor terdiri dari dua pelat konduktif yang dipisahkan oleh bahan dielektrik isolator.\nKapasitor memiliki berbagai aplikasi dalam rangkaian elektronika, seperti penyaring sinyal, penyimpan energi sementara, dan pengatur waktu dalam rangkaian osilator.</item>
+        <item>LED (Light Emitting Diode) adalah komponen elektronik semikonduktor yang menghasilkan cahaya saat dialiri arus listrik. LED biasanya terbuat dari bahan semikonduktor seperti galium arsenida (GaAs) atau galium nitrida (GaN). Ketika arus listrik mengalir melalui LED, elektron-elektron di dalamnya bergabung dengan lubang-lubang, menghasilkan energi yang kemudian dilepaskan dalam bentuk cahaya. LED memiliki keunggulan seperti konsumsi energi yang rendah, umur panjang, ukuran kecil, dan tahan terhadap guncangan dan getaran.</item>
+        <item>Potensiometer, atau sering disebut potensio, adalah komponen elektronik yang digunakan untuk mengatur resistansi dalam rangkaian listrik. Potensiometer biasanya terdiri dari tiga terminal: dua terminal tetap dan satu terminal geser. Saat terminal geser digerakkan, panjang jalur resistansi yang dilalui oleh arus listrik berubah, sehingga mengubah nilai resistansi secara proporsional. Potensiometer sering digunakan untuk mengatur volume suara, kecerahan layar, atau nilai-nilai tegangan dan arus dalam rangkaian elektronik.</item>
+        <item>Relay adalah saklar elektromagnetik yang digunakan untuk mengendalikan arus listrik dalam suatu rangkaian. Relay bekerja berdasarkan prinsip induksi elektromagnetik, di mana medan magnet yang dihasilkan oleh arus listrik melalui kumparan menghasilkan gaya yang menggerakkan kontak-kontak dalam relay, sehingga membuka atau menutup sirkuit listrik lainnya. Relay digunakan untuk mengendalikan perangkat listrik besar dengan menggunakan sinyal atau tegangan yang lebih kecil. Mereka sering digunakan dalam sistem otomasi industri, kendaraan, dan peralatan listrik lainnya.</item>
+        <item>Resistor adalah komponen elektronik yang memiliki peran utama dalam mengatur arus listrik dalam sebuah rangkaian. Resistor biasanya terdiri dari material seperti karbon atau logam yang memberikan hambatan terhadap aliran arus. Dengan mengatur nilai resistansinya, resistor dapat digunakan untuk mengendalikan besaran arus maupun tegangan dalam suatu rangkaian. Mereka juga digunakan untuk membagi tegangan, mengatur kecepatan motor, dan menstabilkan sinyal dalam berbagai aplikasi elektronik.</item>
+        <item>Transformator adalah perangkat elektromagnetik yang digunakan untuk mentransfer daya listrik antara dua atau lebih sirkuit melalui induksi elektromagnetik. Transformator terdiri dari dua belitan kawat yang disebut gulungan, yang dililitkan di sekitar inti besi atau ferit. Ketika arus bolak-balik mengalir melalui gulungan primer, medan magnet yang dihasilkan menginduksi arus pada gulungan sekunder, yang kemudian menghasilkan tegangan pada gulungan tersebut. Transformator digunakan dalam berbagai aplikasi, termasuk dalam sistem distribusi listrik, pengisi daya, dan perangkat elektronik lainnya.</item>
+        <item>Transistor adalah komponen semikonduktor yang digunakan untuk mengontrol aliran arus listrik dalam suatu rangkaian. Terdiri dari tiga lapisan semikonduktor - emitor, basis, dan kolektor - transistor dapat berfungsi sebagai saklar elektronik atau penguat sinyal. Dalam mode penguatan, arus kecil yang mengalir melalui basis transistor dapat mengendalikan arus yang jauh lebih besar yang mengalir melalui jalur emitor-kolektor. Transistor memiliki peran krusial dalam desain sirkuit terintegrasi, sistem komunikasi, dan berbagai perangkat elektronik modern lainnya, dan ada dalam berbagai jenis seperti transistor bipolar junction (BJT) dan transistor efek medan (FET).</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/buzzer</item>
+        <item>@drawable/dioda</item>
+        <item>@drawable/ic</item>
+        <item>@drawable/induktor</item>
+        <item>@drawable/kapasitor</item>
+        <item>@drawable/led</item>
+        <item>@drawable/potensiometer</item>
+        <item>@drawable/relay</item>
+        <item>@drawable/resistor</item>
+        <item>@drawable/transformator</item>
+        <item>@drawable/transistor</item>
+    </integer-array>
+</resources>
